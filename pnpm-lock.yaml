@@ -112,9 +112,6 @@ catalogs:
       specifier: ^4.1.6
       version: 4.1.6
 
-overrides:
-  chokidar: ^5.0.0
-
 importers:
 
   .:
